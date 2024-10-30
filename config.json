@@ -4,11 +4,6 @@
 		"name": "Vipor",
         	"url": "stratum+tcp://sg.vipor.net:5045",
 		"timeout": 150
-	},
-	{
-		"name": "Vipor2",
-        	"url": "stratum+ssl://sg.vipor.net:5145",
-		"timeout": 150
 	}
 	],
 	"user": "RUcxXaVJHpXYttu6Sh9DmsQNSMsMstpS1N.Ijalss",
